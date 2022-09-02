@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🐱‍👤👀🩹🥨🍂🖤💨
 
 <!--
 **yxoni/yxoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 </div>  
   
-![yxoni's github stats](https://github-readme-stats.vercel.app/api?username=yxoni&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxoni&show_icons=true&theme=graywhite)
